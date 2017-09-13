@@ -1,0 +1,10 @@
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/bin/Debug/netcoreapp2.0/time_display.deps.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/bin/Debug/netcoreapp2.0/time_display.runtimeconfig.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/bin/Debug/netcoreapp2.0/time_display.runtimeconfig.dev.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/bin/Debug/netcoreapp2.0/time_display.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/bin/Debug/netcoreapp2.0/time_display.pdb
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/obj/Debug/netcoreapp2.0/time_display.csproj.CoreCompileInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/obj/Debug/netcoreapp2.0/time_display.AssemblyInfoInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/obj/Debug/netcoreapp2.0/time_display.AssemblyInfo.cs
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/obj/Debug/netcoreapp2.0/time_display.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/time_display/obj/Debug/netcoreapp2.0/time_display.pdb

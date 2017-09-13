@@ -1,15 +1,14 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace first_practice.Controllers {
-    public class HelloController : Controller {
+namespace time_display {
+    public class TimeController : Controller {
 
         [HttpGet]
         [Route("")]
         public IActionResult Index() {
-            return View("Index");
+            return View();
         }
-
 
     }
 }
