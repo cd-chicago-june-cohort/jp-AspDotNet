@@ -1,0 +1,10 @@
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/obj/Debug/netcoreapp2.0/calling_card.csproj.CoreCompileInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/obj/Debug/netcoreapp2.0/calling_card.AssemblyInfoInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/obj/Debug/netcoreapp2.0/calling_card.AssemblyInfo.cs
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/bin/Debug/netcoreapp2.0/calling_card.deps.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/bin/Debug/netcoreapp2.0/calling_card.runtimeconfig.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/bin/Debug/netcoreapp2.0/calling_card.runtimeconfig.dev.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/bin/Debug/netcoreapp2.0/calling_card.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/bin/Debug/netcoreapp2.0/calling_card.pdb
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/obj/Debug/netcoreapp2.0/calling_card.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/calling_card/obj/Debug/netcoreapp2.0/calling_card.pdb

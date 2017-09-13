@@ -1,0 +1,10 @@
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/bin/Debug/netcoreapp2.0/first_practice.deps.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/bin/Debug/netcoreapp2.0/first_practice.runtimeconfig.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/bin/Debug/netcoreapp2.0/first_practice.runtimeconfig.dev.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/bin/Debug/netcoreapp2.0/first_practice.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/bin/Debug/netcoreapp2.0/first_practice.pdb
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/obj/Debug/netcoreapp2.0/first_practice.csproj.CoreCompileInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/obj/Debug/netcoreapp2.0/first_practice.AssemblyInfoInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/obj/Debug/netcoreapp2.0/first_practice.AssemblyInfo.cs
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/obj/Debug/netcoreapp2.0/first_practice.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/first_practice/obj/Debug/netcoreapp2.0/first_practice.pdb
