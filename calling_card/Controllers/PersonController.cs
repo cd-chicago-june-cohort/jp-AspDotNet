@@ -4,17 +4,11 @@ using Microsoft.AspNetCore.Mvc;
 namespace calling_card {
     public class PersonController : Controller {
 
-        // [HttpGet]
-        // [Route("/{dog}")]
-        // public JsonResult TestingTesting(string dog) {
-        //     return Json(dog);
-        // }
-
-
         [HttpGet]
-        [Route(template: "/{FirstName}/{LastName}/{Age}/{FavoriteColor})")]
-        public JsonResult GetPerson(string FirstName, string LastName, string Age, string FavoriteColor) {
-            return Json(FirstName);
+        [Route("/{dog}/{last}/{age}/{fav_color}")]
+        public JsonResult GetPerson(string dog, string last, string age, string fav_color) {
+            return Json(dog + " " + last + " " + age + " " + fav_color);
         }
+
     }
 }
