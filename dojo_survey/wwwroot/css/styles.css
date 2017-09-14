@@ -1,0 +1,9 @@
+* {
+    margin: 10px;
+}
+
+#container {
+    width: 970px;
+    border: 2px solid maroon;
+    padding: 10px;
+}

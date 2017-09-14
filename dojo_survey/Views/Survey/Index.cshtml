@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+        <link rel="stylesheet" href="~/css/styles.css"/>
+    </head>
+    <body>
+        <div id="container">
+            <form action="/survey" method="POST">
+                <label for="name">Your name:</label>
+                <input type="text" id="name" name="name"/>
+                <br>
+                <label for="city">Location:</label>
+                <select id="city" name="city">
+                    <option value="San Jose">San Jose</option>
+                    <option value="Chicago">Chicago</option>
+                    <option value="Tulsa">Tulsa</option>
+                    <option value="Dallas">Dallas</option>
+                </select>
+                <br>
+                <label for="language">Favorite language:</label>
+                <select if="language" name="language">
+                    <option value="C#">C#</option>
+                    <option value="JavaScript">JavaScript</option>
+                    <option value="Python">Python</option>
+                    <option value="Ruby">Ruby</option>
+                </select>
+                <br>
+                <label for="comment">Comment (optional):</label>
+                <br>
+                <textarea name="comment"></textarea>
+                <br>
+                <input type="submit" value="Submit"/>
+            </form>
+        </div>
+        
+    </body>
+</html>
