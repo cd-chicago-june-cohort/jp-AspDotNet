@@ -1,0 +1,10 @@
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/bin/Debug/netcoreapp2.0/portfolio.deps.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/bin/Debug/netcoreapp2.0/portfolio.runtimeconfig.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/bin/Debug/netcoreapp2.0/portfolio.runtimeconfig.dev.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/bin/Debug/netcoreapp2.0/portfolio.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/bin/Debug/netcoreapp2.0/portfolio.pdb
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/obj/Debug/netcoreapp2.0/portfolio.csproj.CoreCompileInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/obj/Debug/netcoreapp2.0/portfolio.AssemblyInfoInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/obj/Debug/netcoreapp2.0/portfolio.AssemblyInfo.cs
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/obj/Debug/netcoreapp2.0/portfolio.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/portfolio/obj/Debug/netcoreapp2.0/portfolio.pdb
