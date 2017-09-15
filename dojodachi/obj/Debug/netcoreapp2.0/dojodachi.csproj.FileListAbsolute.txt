@@ -1,0 +1,10 @@
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/bin/Debug/netcoreapp2.0/dojodachi.deps.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/bin/Debug/netcoreapp2.0/dojodachi.runtimeconfig.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/bin/Debug/netcoreapp2.0/dojodachi.runtimeconfig.dev.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/bin/Debug/netcoreapp2.0/dojodachi.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/bin/Debug/netcoreapp2.0/dojodachi.pdb
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/obj/Debug/netcoreapp2.0/dojodachi.csproj.CoreCompileInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/obj/Debug/netcoreapp2.0/dojodachi.AssemblyInfoInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/obj/Debug/netcoreapp2.0/dojodachi.AssemblyInfo.cs
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/obj/Debug/netcoreapp2.0/dojodachi.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/ASP_NET/dojodachi/obj/Debug/netcoreapp2.0/dojodachi.pdb
