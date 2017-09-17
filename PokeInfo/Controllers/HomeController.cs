@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Server.Kestrel.Internal.System.Collections.Sequences;
+using System.Collections;
 
 namespace PokeInfo.Controllers
 {
@@ -19,6 +21,10 @@ namespace PokeInfo.Controllers
             WebRequest.GetPokeData(pokeid, ApiResponse => {
                 PokeInfo = ApiResponse;
             }).Wait();
+
+            ViewBag.Name = PokeInfo["name"];
+            ViewBag.Height = PokeInfo["height"];
+            ViewBag.Weight = PokeInfo["weight"];
 
             return View();
         }
