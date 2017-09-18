@@ -1,0 +1,9 @@
+
+
+<h1>Here are some badass quotes:</h1>
+
+@foreach (var quote in @ViewBag.allQuotes) {
+    <p><strong>"@quote["quote"]"</strong> - @quote["name"]</p>
+}
+
+<a href="/"><button>Go Back</button></a>
