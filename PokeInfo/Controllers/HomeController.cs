@@ -23,7 +23,7 @@ namespace PokeInfo.Controllers
             }).Wait();
 
             ViewBag.Name = PokeInfo["name"];
-            ViewBag.Height = PokeInfo["height"];
+            var types = PokeInfo["types"];
             ViewBag.Weight = PokeInfo["weight"];
 
             return View();
