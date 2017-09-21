@@ -1,0 +1,49 @@
+@model wedding_planner.Models.RegisterViewModel
+
+<h1>Register here:</h1>
+
+@if(ViewBag.emailError != null) {
+    <p>@ViewBag.emailError</p>
+}
+
+<form asp-controller="Home" asp-action="register" method="post">
+    <label asp-for="FirstName"></label>
+    <input asp-for="FirstName"/>
+    <span class="red" asp-validation-for="FirstName"></span>
+    <br>
+    <label asp-for="LastName"></label>
+    <input asp-for="LastName"/>
+    <span class="red" asp-validation-for="LastName"></span>
+    <br>
+    <label asp-for="Email"></label>
+    <input asp-for="Email"/>
+    <span class="red" asp-validation-for="Email"></span>
+    <br>
+    <label asp-for="Password"></label>
+    <input asp-for="Password" type="password"/>
+    <span class="red" asp-validation-for="Password"></span>
+    <br>
+    <label asp-for="ConfirmPassword"></label>
+    <input asp-for="ConfirmPassword" type="password"/>
+    <span class="red" asp-validation-for="ConfirmPassword"></span>
+    <br>
+    <button type="submit">Register</button>
+</form>
+
+<br>
+<hr>
+<br>
+
+<h1>Or login here:</h1>
+@if(ViewBag.LoginError != null) {
+    <p>@ViewBag.LoginError</p>
+}
+<form action="/login" method="post">
+    <label for="Email">Email: </label>
+    <input id="Email" type="text" name="email"/>
+    <br>
+    <label for="Password">Password: </label>
+    <input id="Password" type="password" name="password"/>
+    <br>
+    <input type="submit" value="Login">
+</form>
